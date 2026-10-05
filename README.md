@@ -1,16 +1,48 @@
-# React + Vite
+# Machine Learning Roadmap — Beginner to Pro
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A structured roadmap for learning Machine Learning from the fundamentals to advanced concepts.
 
-Currently, two official plugins are available:
+## Roadmap
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Live roadmap:
 
-## React Compiler
+https://ml-roadmap-by-dev.netlify.app/
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+The roadmap is designed to provide a clear learning path and help you understand what to learn, in what order, as you progress through Machine Learning.
 
-## Expanding the ESLint configuration
+This is a work in progress and will continue to be improved over time.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Contributing
+
+If you have experience in Machine Learning, Artificial Intelligence, Data Science, Mathematics, Deep Learning, MLOps, or related fields, your feedback is welcome.
+
+You can contribute by:
+
+- Adding missing topics
+- Correcting inaccurate information
+- Improving the learning order
+- Suggesting useful resources
+- Improving the roadmap structure
+- Fixing bugs or UI issues
+
+Feel free to open an issue or submit a pull request.
+
+## About
+
+Created and maintained by Dev Gupta.
+
+I am a Software Engineer interested in Machine Learning, Artificial Intelligence, software engineering, and developer tools.
+
+## Connect
+
+LinkedIn: https://www.linkedin.com/in/dev-gupta-1330642b8/
+
+Email: dev.gupta.eng@gmail.com
+
+## Support
+
+If you find this roadmap useful, consider giving the repository a star.
+
+---
+
+Learn. Build. Practice. Improve.
